@@ -132,7 +132,3 @@ Ejecuta las pruebas:
 ```bash
 python -m pytest -v
 ```
-
-Las pruebas verifican la creación de personajes, la clase abstracta, el rechazo de valores inválidos, las habilidades especiales, el límite de vida, la prohibición de atacar estando derrotado, la identificación del ganador y el empate técnico.
-
-Antes de entregar, ejecuta las pruebas en tu propio equipo y agrega al repositorio el resultado real de la ejecución. No se incluye una captura ni un número de pruebas aprobadas como si ya se hubieran ejecutado en tu entorno.
